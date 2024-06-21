@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "325896280138",
+    "firebase_url": "https://art-gallery-dcfe3-default-rtdb.firebaseio.com",
+    "project_id": "art-gallery-dcfe3",
+    "storage_bucket": "art-gallery-dcfe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325896280138:android:ec0dbb86231046253daeb3",
+        "android_client_info": {
+          "package_name": "com.AdaZhou.ArtGallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2kFxOFyWUQ7Dkb6y4MXBLc7C4AL1KlzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
